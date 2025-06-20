@@ -6,7 +6,7 @@
   <h3> 
 </div>
 
-* Soy estudiante de Ingeniería de Sistemas (tercer semestre) y ADSO (SENA). Apasionado por el mundo IT y el desarrollo backend. Nivel de inglés B2 conversacional.
+* Soy estudiante de Ingeniería de Sistemas y ADSO (SENA). Apasionado por el mundo IT y el desarrollo backend. Nivel de inglés B2 conversacional.
 * Actualmente desarrollo software de facturación y administración para una pyme como freelancer, mientras profundizo mis conocimientos y me preparo para futuras prácticas profesionales.
 * 📫 Puedes contactarme en: [freddybautistadev@gmail.com](mailto:freddybautistadev@gmail.com)
 
