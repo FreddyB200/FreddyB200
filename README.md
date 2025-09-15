@@ -6,7 +6,7 @@
   <h3>Systems Engineering Student & Software Developer</h3>
 </div>
 
-Hi there! I'm Freddy, a passionate software developer with a strong focus on backend engineering and DevOps. I'm currently a Systems Engineering student at [Your University Name] and an ADSO student at SENA, where I'm building a solid foundation in software architecture and development best practices.
+Hi there! I'm Freddy, a passionate software developer with a strong focus on backend engineering and DevOps. I'm currently a Systems Engineering student and an ADSO student at SENA, where I'm building a solid foundation in software architecture and development best practices.
 
 * 💡 I have practical experience developing full-stack applications, including a freelance project building a billing and management system for a local business.
 * 🚀 I'm deeply interested in cloud computing, cybersecurity, and creating scalable, high-performance systems.
