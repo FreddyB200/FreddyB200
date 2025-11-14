@@ -14,7 +14,7 @@ Hi there! I'm Freddy, a passionate software developer with a strong focus on bac
 * 📫 You can reach me at: [freddybautistadev@gmail.com](mailto:freddybautistadev@gmail.com)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/freddy-bautista-baquero/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Freddy Bautista LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/freddy-bautistaas/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Freddy Bautista LinkedIn" /></a>
   <a href="https://leetcode.com/u/FreddyB200/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="FreddyB200 LeetCode" /></a>
   <a href="https://www.hackerrank.com/profile/abs0rbmejohan321" target="_blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Freddy Bautista HackerRank" /></a>
 </p>
