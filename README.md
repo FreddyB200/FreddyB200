@@ -13,7 +13,7 @@
   <a href="mailto:freddybautistadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@freddydev200" target="_blank">
+  <a href="https://www.tiktok.com/@freddyb200" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/FreddyB200/" target="_blank">
@@ -52,14 +52,16 @@
 
 <br/>
 
-## 🏆 Highlights
+## 🚀 Projects
 
-| Project | Context | Result |
-|--------|---------|--------|
-| [EcoSentinel](https://github.com/Olinky-HackDay-Indra-Hackaton/ecosentinel-uptc) | Indra IAMinds Hackathon LATAM 2026 · 283 participants | 🥈 2nd place |
-| [Yuno Sentinel](https://github.com/FreddyB200/Yuno_Sentinel) | Yuno NextGen Hackathon · invite-only · fintech | Anomaly detection microservice |
-| Invoixio ERP | Freelance · Java 17 + Spring Boot + PostgreSQL | Billing & inventory system in production |
-| CCTV Streaming Platform | Internship · FastAPI + Docker | 16 cameras, 24/7, RTSP→HLS |
+| Project | Stack | Context |
+|---------|-------|---------|
+| [EcoSentinel](https://github.com/Olinky-HackDay-Indra-Hackaton/ecosentinel-uptc) | FastAPI · Prophet · n8n · Supabase | 🥈 Indra Hackathon LATAM 2026 · 283 participants · energy prediction platform for UPTC campuses |
+| [Yuno Sentinel](https://github.com/FreddyB200/Yuno_Sentinel) | FastAPI · PostgreSQL · Redis · Docker | Yuno NextGen Hackathon (invite-only) · fintech real-time anomaly detection |
+| [Travel Recharge API](https://github.com/FreddyB200/travel-recharge-api) | FastAPI · PostgreSQL · Redis · Docker | SITP/TransMilenio simulation · Redis caching achieving **17–24x latency reduction** · load tested with Locust |
+| [Travel Recharge DB](https://github.com/FreddyB200/travel-recharge-database) | PostgreSQL · Python | Extended fork of professor's schema · added 7,765 stations, 558 routes, 10k+ vehicles and Python data generator based on real TransMilenio stats |
+| Invoixio ERP *(private)* | Java 17 · Spring Boot · PostgreSQL · Docker | Freelance · multi-module billing & inventory system delivered to production |
+| Staff Equipment System *(private)* | React · Google Apps Script · Google Sheets | Internship @ ESCOLE · in daily use across 5 departments since Nov 2025 |
 
 <br/>
 
@@ -75,8 +77,8 @@
 
 ## 📌 Currently
 
-- 🎯 Focused on **Java/Spring Boot** backend roles in enterprise and banking environments
-- 📚 Systems Engineering @ UCompensar + ADSO @ SENA — evening schedule, **available full-time during the day**
+- 🎯 Looking for **Java/Spring Boot backend roles** in enterprise and banking environments
+- 📚 Systems Engineering + ADSO @ SENA — evening schedule, **available full-time during the day**
 - 🔨 Open builds every week on TikTok Live for the Spanish-speaking dev community
 
 <br/>
