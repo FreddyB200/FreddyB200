@@ -1,46 +1,86 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FreddyB200/FreddyB200/refs/heads/main/banner.png" alt="Freddy Bautista's Personalized Banner" width="800"/>
-</div>
+<h1 align="center">
+  Hey, I'm Freddy 👋
+</h1>
 
-<div align="center">
-  <h3>Systems Engineering Student & Software Developer</h3>
-</div>
-
-Hi there! I'm Freddy, a passionate software developer with a strong focus on backend engineering and DevOps. I'm currently a Systems Engineering student and an ADSO student at SENA, where I'm building a solid foundation in software architecture and development best practices.
-
-* 💡 I have practical experience developing full-stack applications, including a freelance project building a billing and management system for a local business.
-* 🚀 I'm deeply interested in cloud computing, cybersecurity, and creating scalable, high-performance systems.
-* 💬 My English proficiency is B2 (conversational), enabling effective communication in international teams.
-* 📫 You can reach me at: [freddybautistadev@gmail.com](mailto:freddybautistadev@gmail.com)
+<h3 align="center">
+  Backend Developer · Java & Python · Bogotá 🇨🇴
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/freddy-bautistaas/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Freddy Bautista LinkedIn" /></a>
-  <a href="https://leetcode.com/u/FreddyB200/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="FreddyB200 LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/abs0rbmejohan321" target="_blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Freddy Bautista HackerRank" /></a>
+  <a href="https://www.linkedin.com/in/freddy-bautista-baquero/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:freddybautistadev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@freddyb200" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/FreddyB200/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
-<br>
+<br/>
 
-### 🛠️ Tech Stack & Tools
+```text
+🏗️  Building backends that don't break at 3am
+🏆  2nd place — Indra IAMinds Hackathon LATAM 2026 (283 participants)
+🔒  Invite-only Yuno NextGen Hackathon — fintech anomaly detection
+📺  Building in public on TikTok Live
+🌎  English C1 · C2 in reading & listening (EF SET 76/100)
+```
 
-<div align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,go,docker,kubernetes,git,linux,postgresql,mysql,redis,aws,gcp&perline=7" alt="Skill Icons" />
-</p>
-</div>
-<br>
+<br/>
 
-### 📊 My GitHub Stats
+## 🛠️ Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freddyb200&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="FreddyB200's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddyb200&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="FreddyB200's Top Languages"/>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
-<br>
+<br/>
 
-### 🌱 Current Focus & Professional Development
+## 🏆 Highlights
 
-* **DevOps & Cloud:** Deepening my practical skills in CI/CD pipelines, container orchestration with Kubernetes, and infrastructure as code on AWS.
-* **Backend Engineering:** Mastering advanced concepts in Spring Boot and expanding my knowledge of microservices architecture.
-* **Problem Solving:** Consistently honing my algorithmic and data structure skills on platforms like LeetCode and HackerRank.
+| Project | Context | Result |
+|--------|---------|--------|
+| [EcoSentinel](https://github.com/Olinky-HackDay-Indra-Hackaton/ecosentinel-uptc) | Indra IAMinds Hackathon LATAM 2026 · 283 participants | 🥈 2nd place |
+| [Yuno Sentinel](https://github.com/FreddyB200/Yuno_Sentinel) | Yuno NextGen Hackathon · invite-only · fintech | Anomaly detection microservice |
+| Invoixio ERP | Freelance · Java 17 + Spring Boot + PostgreSQL | Billing & inventory system in production |
+| CCTV Streaming Platform | Internship · FastAPI + Docker | 16 cameras, 24/7, RTSP→HLS |
+
+<br/>
+
+## 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreddyB200/FreddyB200/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FreddyB200/FreddyB200/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FreddyB200/FreddyB200/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/>
+
+## 📌 Currently
+
+- 🎯 Focused on **Java/Spring Boot** backend roles in enterprise and banking environments
+- 📚 Systems Engineering @ UCompensar + ADSO @ SENA — evening schedule, **available full-time during the day**
+- 🔨 Open builds every week on TikTok Live for the Spanish-speaking dev community
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FreddyB200&style=flat-square&color=6DB33F" alt="Profile views"/>
+</p>
