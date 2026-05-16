@@ -13,7 +13,7 @@
   <a href="mailto:freddybautistadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@freddyb200" target="_blank">
+  <a href="https://www.tiktok.com/@freddydev200" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/FreddyB200/" target="_blank">
