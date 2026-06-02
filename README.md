@@ -56,6 +56,7 @@
 
 | Project | Stack | Context |
 |---------|-------|---------|
+| Adkio | Python FastAPI · React · LiteLLM · Supabase · Railway | 🥈 GTM Hackathon LATAM 2026 · 50+ teams · AI agent for launching Meta/TikTok/Google ad campaigns from natural language |
 | [EcoSentinel](https://github.com/Olinky-HackDay-Indra-Hackaton/ecosentinel-uptc) | FastAPI · Prophet · n8n · Supabase | 🥈 Indra Hackathon LATAM 2026 · 283 participants · energy prediction platform for UPTC campuses |
 | [Yuno Sentinel](https://github.com/FreddyB200/Yuno_Sentinel) | FastAPI · PostgreSQL · Redis · Docker | Yuno NextGen Hackathon (invite-only) · fintech real-time anomaly detection |
 | [Travel Recharge API](https://github.com/FreddyB200/travel-recharge-api) | FastAPI · PostgreSQL · Redis · Docker | SITP/TransMilenio simulation · Redis caching achieving **17–24x latency reduction** · load tested with Locust |
@@ -77,7 +78,7 @@
 
 ## 📌 Currently
 
-- 🎯 Looking for **Java/Spring Boot backend roles** in enterprise and banking environments
+- 💼 Backend Java Developer @ Inetum Colombia · BBVA project
 - 📚 Systems Engineering + ADSO @ SENA — evening schedule, **available full-time during the day**
 - 🔨 Open builds every week on TikTok Live for the Spanish-speaking dev community
 
