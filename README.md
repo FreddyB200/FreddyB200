@@ -22,10 +22,12 @@
 
 ```text
 🏗️  Building backends that don't break at 3am
+🥈  2nd place — Platanus Hack 26, AI Security track (100 selected from 300+ applicants)
 🏆  2nd place — Indra IAMinds Hackathon LATAM 2026 (283 participants)
+🥈  2nd place — GTM Hackathon LATAM 2026 (50+ teams)
 🔒  Invite-only Yuno NextGen Hackathon — fintech anomaly detection
 📺  Building in public on TikTok Live
-🌎  English C1 · C2 in reading & listening (EF SET 76/100)
+🌎  English C1 · B2 speaking · C1 in reading & listening (EF SET 76/100)
 ```
 
 <br/>
@@ -53,6 +55,7 @@
 
 | Project | Stack | Context |
 |---------|-------|---------|
+| Roxy | Go · Rust · Z3 · LLM policy compiler | 🥈 Platanus Hack 26 · AI Security track · 100 selected from 300+ applicants · security gateway for AI agents consuming MCPs — enforces delegation-scoped permissions at execution time, deterministic Rust decision engine, Z3-audited policy ruleset |
 | Adkio | Python FastAPI · React · LiteLLM · Supabase · Railway | 🥈 GTM Hackathon LATAM 2026 · 50+ teams · AI agent for launching Meta/TikTok/Google ad campaigns from natural language |
 | [EcoSentinel](https://github.com/Olinky-HackDay-Indra-Hackaton/ecosentinel-uptc) | FastAPI · Prophet · n8n · Supabase | 🥈 Indra Hackathon LATAM 2026 · 283 participants · energy prediction platform for UPTC campuses |
 | [Yuno Sentinel](https://github.com/FreddyB200/Yuno_Sentinel) | FastAPI · PostgreSQL · Redis · Docker | Yuno NextGen Hackathon (invite-only) · fintech real-time anomaly detection |
